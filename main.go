@@ -7,7 +7,7 @@ import (
 	"golang.org/x/crypto/nacl/secretbox"
 
 	"errors"
-	"labix.org/v2/mgo/bson"
+	"gopkg.in/mgo.v2/bson"
 	"strconv"
 	"time"
 )
